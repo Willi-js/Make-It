@@ -9,6 +9,7 @@ If you are NOT in a file your work directory will be used insted.
 
 ## Path notations
 Path notations do work. You can use notations like `../{direcotry}/{file}`
+
 Keep in mind the directory location notes above.
 
 ## keybinds
