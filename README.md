@@ -1,6 +1,6 @@
 # Features
 
-Quickly make the files and folders you want.
+Quickly create the files and folders you require.
 
 ## Paths
 If you ARE currently in an open file, you will be making a new directory or file in the directory your currently opened file is located. 
