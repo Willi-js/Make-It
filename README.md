@@ -9,3 +9,7 @@ Keep in mind the location note above.
 
 - ctrl + n - `makes a new file`
 - ctrl + d - `makes a new directory`
+
+#### Note :)
+
+Mostly self use <33
